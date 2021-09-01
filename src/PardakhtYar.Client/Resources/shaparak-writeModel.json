@@ -1,0 +1,139 @@
+{
+  "trackingNumberPsp": "",
+  "requestType": 0,
+  "merchant": {
+    "firstNameFa": "",
+    "lastNameFa": "",
+    "fatherNameFa": "",
+    "firstNameEn": "",
+    "lastNameEn": "",
+    "fatherNameEn": "",
+    "gender": null, // 0 : female, 1 : male
+    "birthDate": null,
+    "registerDate": null,
+    "nationalCode": "",
+    "registerNumber": null,
+    "comNameFa": "",
+    "comNameEn": "",
+    "merchantType": 0, //0: real, 1: Legal
+    "residencyType": 0, //0: Iranian, 1: Foreign
+    "vitalStatus": null, // 0: InLife, 1: Departed
+    "birthCrtfctNumber": null,
+    "birthCrtfctSerial": null,
+    "birthCrtfctSeriesLetter": null,
+    "birthCrtfctSeriesNumber": null,
+    "nationalLegalCode": null,
+    "commercialCode": null,
+    "countryCode": null,
+    "foreignPervasiveCode": null,
+    "passportNumber": null,
+    "passportExpireDate": null,
+    "Description": null,
+    "telephoneNumber": "",
+    "cellPhoneNumber": "",
+    "emailAddress": "",
+    "webSite": "",
+    "fax": "",
+    "merchantIbans": [
+      {
+        "Iban": "IR",
+        "Description": null
+      }
+    ],
+    "merchantOfficers": [
+      {
+        "firstNameFa": "",
+        "lastNameFa": "",
+        "fatherNameFa": "",
+        "firstNameEn": "",
+        "lastNameEn": "",
+        "fatherNameEn": "",
+        "gender": null,
+        "birthDate": null,
+        "nationalCode": "",
+        "residencyType": 0, //0: Iranian, 1: Foreign
+        "vitalStatus": null, // 0: InLife, 1: Departed
+        "birthCrtfctNumber": null,
+        "birthCrtfctSerial": null,
+        "birthCrtfctSeriesLetter": null,
+        "birthCrtfctSeriesNumber": null,
+        "countryCode": "",
+        "passportExpireDate": null,
+        "Description": null,
+        "updateAction": null //0: update, 1: Remove, 2: NoChange
+      }
+    ],
+    "updateAction": null //0: update, 1: Remove, 2: NoChange
+  },
+  "relatedMerchants": [
+    {
+      "firstNameFa": "",
+      "lastNameFa": "",
+      "fatherNameFa": "",
+      "firstNameEn": "",
+      "fatherNameEn": "",
+      "gender": null, // 0 : female, 1 : male
+      "birthDate": null,
+      "registerDate": null,
+      "nationalCode": "",
+      "comNameFa": "",
+      "comNameEn": "",
+      "merchantType": 0, //0: real, 1: Legal
+      "residencyType": 0, //0: Iranian, 1: Foreign
+      "vitalStatus": null, // 0: InLife, 1: Departed
+      "birthCrtfctNumber": null,
+      "birthCrtfctSerial": null,
+      "birthCrtfctSeriesLetter": null,
+      "birthCrtfctSeriesNumber": null,
+      "nationalLegalCode": null,
+      "commercialCode": null,
+      "foreignPervasiveCode": null,
+      "passportNumber": null,
+      "passportExpireDate": null,
+      "Description": null,
+      "telephoneNumber": "",
+      "cellPhoneNumber": "",
+      "emailAddress": "",
+      "webSite": "",
+      "fax": "",
+      "merchantIbans": [
+        {
+          "Iban": "IR",
+          "Description": null
+        }
+      ],
+      "merchantOfficers": [
+        {
+          "firstNameFa": "",
+          "lastNameFa": "",
+          "fatherNameFa": "",
+          "firstNameEn": "",
+          "lastNameEn": "",
+          "fatherNameEn": "",
+          "gender": null,
+          "birthDate": null,
+          "nationalCode": "",
+          "residencyType": 0, //0: Iranian, 1: Foreign
+          "vitalStatus": null, // 0: InLife, 1: Departed
+          "birthCrtfctNumber": null,
+          "birthCrtfctSerial": null,
+          "birthCrtfctSeriesLetter": null,
+          "birthCrtfctSeriesNumber": null,
+          "countryCode": "",
+          "passportExpireDate": null,
+          "Description": null,
+          "updateAction": null //0: update, 1: Remove, 2: NoChange
+        }
+      ],
+      "updateAction": null, //0: update, 1: Remove, 2: NoChange
+      "relationType": 0 //0: Split , 1: Official
+    }
+  ],
+  "Contract": {
+    "contractDate": null,
+    "expiryDate": null,
+    "serviceStartDate": null,
+    "contractNumber": "",
+    "Description": null
+  }
+}
